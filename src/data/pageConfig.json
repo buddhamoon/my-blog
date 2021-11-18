@@ -1,0 +1,9 @@
+{
+  "title": "我的博客应用",
+  "version": "V1.0.0",
+  "indexPage": {
+    "headImg": [""],
+    "mainTitle": "博客系统",
+    "viceTitle": "一个具备学习与试验性质的博客系统"
+  }
+}
